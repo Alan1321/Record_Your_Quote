@@ -1,0 +1,10 @@
+.button{
+    padding:0.5rem;
+    color: white;
+    /* display: block; */
+    width:10rem;
+    background-color: black;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

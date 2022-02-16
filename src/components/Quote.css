@@ -1,0 +1,41 @@
+body{
+    color:white;
+}
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.outer_container{
+    /* border-style: solid;
+    border-color: white; */
+    width:50vw;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    /* margin-left: 30em; */
+    height: auto;
+    margin-top: 2em;
+
+}
+
+.inner_container{
+    width:27%;
+    height:auto;
+    border-style: solid;
+    border-color: white;
+    margin:1em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectioncontainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotecss{
+    font-family:'Courier New', Courier, monospace;
+}
